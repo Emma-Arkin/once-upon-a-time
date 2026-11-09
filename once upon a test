@@ -1,1 +1,7 @@
-
+CAROL'S PSEUDOCODE DRAFT:
+Close walkie talkie copper circuit >>> living room lights = on
+Close both plate copper circuits >>> living room - study room door (door 1 servo) opens
+Door opens > breaks door 1 copper circuit > reading room lights come on (alternatively, last step does both the door and the lights)
+Piano keys pressed in correct order >>> study-crypt door (door 2 servo) opens
+Door 2 opens > breaks copper circuit > crypt lights come on
+Artifact - to - casket copper circuits are completed >>> all lights turn green (or purple for ghostly vibes?)  + ghost flies up with letter (servo) + door out opens (door 3 servo) 
